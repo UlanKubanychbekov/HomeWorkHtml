@@ -37,9 +37,7 @@ label{
     display: block;
 }
 .send{
-    margin-right: 240px ;
     margin-top: 20px;
-    padding: 10px 40px 10px 40px;
     width: 150px;
     border-radius: 20px;
     background-color: deeppink;
